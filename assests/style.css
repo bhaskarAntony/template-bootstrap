@@ -38,6 +38,7 @@ header{
     padding: 4px;
     margin-right: 3px;
     background-color: transparent;
+    outline: none;
 }
 .hero-image img{
     transform: translateY(80px);
