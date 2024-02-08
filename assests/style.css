@@ -37,6 +37,7 @@ header{
     border-right: 1px solid #e6e6e6;
     padding: 4px;
     margin-right: 3px;
+    background-color: transparent;
 }
 .hero-image img{
     transform: translateY(80px);
