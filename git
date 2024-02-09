@@ -1,0 +1,33 @@
+to link git and github (first time)
+1) git config --global user.name "your git user name without space"
+2) git config --global user.email "your email address in github (linked email)"
+3) (optional) git config --global user.password "github profile password"
+
+----------------------------------------------------
+
+TO UPLOAD ANY FOLDER TO GIT REPOSITORY/
+----------------------------------------------------
+at the first time uploading time
+1) git init 
+(initializing git floder to our project)
+
+2) git add .
+(adding all files if we use  (.) or if u want add only perticular file we can write git add (filename) ))
+
+3) git commit -m "ur message"
+(adding ine message about our work like commit confirm)
+
+4) copy the git repository link after creating repo in github
+paste (right click and paste)
+
+5) git push -u origin master
+(to upload all the files to gihub and refresh git repo)
+----------------------------------------------------
+
+TO UPDATE THE REPO ANY TIME
+----------------------------------------------------
+1) git add .
+2) git commit -m "any message like (updated files)"
+3) git push -u origin master
+
+
